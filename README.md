@@ -9,15 +9,15 @@ I have some experience in coding and problem-solving, I like learning,and I have
 
 
 Skills: 
-JavaScript (ES6) 
-TypeScript 
+  JavaScript (ES6) 
+  TypeScript 
 React   
   Hooks  
   Redux   
   React Router   
   Axios 
-HTML CSS (Sass, Tailwind, Bootstrap, MUI) 
-Git (Version Control Systems)
+  HTML CSS (Sass, Tailwind, Bootstrap, MUI) 
+  Git (Version Control Systems)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousefseifi/)  
 
