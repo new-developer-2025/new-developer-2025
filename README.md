@@ -2,8 +2,12 @@
 ## Hi there 👋
 #### frontend developer
 ![frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+En
+I have some experience in coding and problem-solving, I like learning,and I have sufficient knowledge of JavaScript's core concepts to create various projects, I view teamwork as a chance to collaborate with      others, and I see project challenges as valuable opportunities to enhance my knowledge and skills.
 
-Hi! I am Yousef Seifi, a front-end developer passionate about building responsive and interactive web applications. I enjoy using real projects as a way to challenge myself and learn new technologies for my skill development.
+Fa
+من تجربه‌ای در برنامه‌نویسی و حل مسئله دارم، به یادگیری علاقه‌مندم و دانش کافی از مفاهیم پایه JavaScript دارم تا بتوانم پروژه‌های متنوعی بسازم، کار تیمی را فرصتی برای همکاری با دیگران می‌دانم و چالش‌های پروژه را به‌عنوان فرصت‌های ارزشمند برای ارتقای دانش و مهارت‌هایم می‌بینم.
+
 
 Skills: 
 JavaScript (ES6) 
