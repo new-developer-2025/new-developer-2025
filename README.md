@@ -24,5 +24,4 @@ Git (Version Control Systems)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=new-developer-2025&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=new-developer-2025)  
 
